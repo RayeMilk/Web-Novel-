@@ -27,7 +27,7 @@ Minimal Novel Web is a Next.js-based application that provides an elegant, distr
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/minimal-novel-web.git
+git clone https://github.com/RayeMilk/minimal-novel-web.git
 cd minimal-novel-web
 ...
 ```
